@@ -1,2 +1,2 @@
 # Instagram
- Aula de recriação da interface do Instagram
+ Aula de recriação de interface do Instagram
